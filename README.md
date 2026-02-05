@@ -1,6 +1,6 @@
 # 🏡💰 Predicting Real Estate Price Prediction 
 
-Data Scientists, Paolo Hilado & Alison Danvers, were tasked with developing a machine learning model that will be used to estimate real estate based on provided explanatory variables. It is based on market historical dataset of real estate valuation collected from Sindian Dist. New Taipei City. This project is a machine learning pipeline for predicting real estate prices using various regression models. The notebook walks through data preprocessing, model selection, hyperparameter tuning, and evaluation, providing a complete end-to-end workflow.
+Data Scientists, **Paolo Hilado & Alison Danvers**, were tasked with developing a machine learning model that will be used to estimate real estate based on provided explanatory variables. It is based on market historical dataset of real estate valuation collected from Sindian Dist. New Taipei City. This project is a machine learning pipeline for predicting real estate prices using various regression models. The notebook walks through data preprocessing, model selection, hyperparameter tuning, and evaluation, providing a complete end-to-end workflow.
 
 ### Key Features
 - Data Preprocessing: Standard scaling of features to ensure models train efficiently.
