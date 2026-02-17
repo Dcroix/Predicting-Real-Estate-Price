@@ -24,5 +24,5 @@ XGBoost is preferred for this dataset because it balances accuracy and generaliz
 - Python 3.12
 - scikit-learn, xgboost, numpy, pandas, matplotlib, seaborn
 
-✔️ Check this on this [link](https://github.com/Dcroix/Predicting-Real-Estate-Price/blob/main/Real%20Estate%20Price%20Predication%20Quick%20App%20Deploy%20Version.ipynb). (right-click → Open in new tab)  
-✔️ Check this on this [link](https://huggingface.co/spaces/Dcroix/HousePriceML). (right-click → Open in new tab)
+✔️ Check out Machine Learning on this [link](https://github.com/Dcroix/Predicting-Real-Estate-Price/blob/main/Real%20Estate%20Price%20Predication%20Quick%20App%20Deploy%20Version.ipynb). (right-click → Open in new tab)  
+✔️ Check out the Machine Learning Application on this [link](https://huggingface.co/spaces/Dcroix/HousePriceML). (right-click → Open in new tab)
