@@ -6,18 +6,18 @@ Data Scientists, **Paolo Hilado & Alison Danvers**, were tasked with developing 
 - Data Preprocessing: Standard scaling of features to ensure models train efficiently.
 - Modeling: Includes multiple regression algorithms:
 - Linear Models: Ridge, Lasso, Elastic Net
-- Tree-based Models: Random Forest Regressor, XGBoost Regressor
+- Ensemble Models: Random Forest Regressor, XGBoost Regressor
 - Hyperparameter Tuning: Uses GridSearchCV to find the best model parameters.
 - Evaluation Metrics: Focus on RMSE (Root Mean Squared Error) for cross-validation, training, and testing datasets.
 - Reproducibility: Pipelines and random seeds ensure consistent results.
 
 ### Insights
-- Linear Models vs Tree-based Models: Tree-based models significantly outperform linear models on this dataset, capturing nonlinear relationships and feature interactions better.
+- Linear Models vs Ensemble Models: Ensemble models significantly outperform linear models on this dataset, capturing nonlinear relationships and feature interactions better.
 - Random Forest achieved Train RMSE ≈ 3.38, Test RMSE ≈ 7.76, and CV RMSE ≈ 7.54, showing some overfitting.
 - XGBoost achieved Train RMSE ≈ 4.67, Test RMSE ≈ 6.99, and CV RMSE ≈ 7.62, demonstrating better generalization.
 
 ### Conclusion
-XGBoost is preferred for this dataset because it balances accuracy and generalization better, while Random Forest slightly overfits the training data.
+XGBoost is preferred for this dataset because it balances performance (lower RMSE) and generalization better, while Random Forest slightly overfits the training data.
 
 
 ### Tech Stack
